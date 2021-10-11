@@ -1,0 +1,31 @@
+{
+  "name": "Super Shiba #4955",
+  "description": "From Mercury to Planet Nine, we, Super Shibas, never stopped exploring... till we found our current home, Earth. The Earth is a playground for us. Everyday is an adventure here. We discover new places, savor the many cuisines and make new friends. When faced with troubles, we never give up and never surrender. Woof!",
+  "image": "http://api.supershibas.io/image/4955",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mountain"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "LETSRAISETHEWOOF Black Long Sleeve Tshirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shadow Shades"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Kitsune Mask"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smiley"
+    }
+  ]
+}

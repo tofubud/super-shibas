@@ -1,0 +1,27 @@
+{
+  "name": "Super Shiba #1715",
+  "description": "From Mercury to Planet Nine, we, Super Shibas, never stopped exploring... till we found our current home, Earth. The Earth is a playground for us. Everyday is an adventure here. We discover new places, savor the many cuisines and make new friends. When faced with troubles, we never give up and never surrender. Woof!",
+  "image": "http://api.supershibas.io/image/1715",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Shamrock"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Grey Striped Tshirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Look Down"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Egg"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "3D Scanned Shiba",
+  "description": "Beep. Beep. Beep. Data collected to print Super Shiba.",
+  "image": "http://api.supershibas.io/image/7922",
+  "attributes": [
+    {
+      "trait_type": "Super Rare",
+      "value": "3D Scanned Shiba"
+    }
+  ]
+}

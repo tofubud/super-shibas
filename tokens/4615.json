@@ -1,0 +1,11 @@
+{
+  "name": "Maneki Shiba",
+  "description": "You buy. You good luck.",
+  "image": "http://api.supershibas.io/image/4615",
+  "attributes": [
+    {
+      "trait_type": "Super Rare",
+      "value": "Maneki Shiba"
+    }
+  ]
+}

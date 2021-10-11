@@ -1,0 +1,11 @@
+{
+  "name": "Golden Shiba",
+  "description": "Touched by Midas.",
+  "image": "http://api.supershibas.io/image/4958",
+  "attributes": [
+    {
+      "trait_type": "Super Rare",
+      "value": "Golden Shiba"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mona Shiba",
+  "description": "The Mona Shiba is a half-length portrait painting by Italian artist Leonardo da Shiba. Considered an archetypal masterpiece of the Shibarian Renaissance, it has been described as \"the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world\".",
+  "image": "http://api.supershibas.io/image/2185",
+  "attributes": [
+    {
+      "trait_type": "Super Rare",
+      "value": "Mona Shiba"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "The Front Shiba",
+  "description": "Let the games begin.",
+  "image": "http://api.supershibas.io/image/9118",
+  "attributes": [
+    {
+      "trait_type": "Super Rare",
+      "value": "The Front Shiba"
+    }
+  ]
+}
